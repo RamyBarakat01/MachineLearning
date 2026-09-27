@@ -297,5 +297,3 @@ Key areas of experience included:
 One of the main lessons from the project was that **more complex models do not necessarily produce better results**. In this experiment, Random Forest using engineered statistical features outperformed the 1D CNN trained on raw time-series data.
 
 The project also highlighted the importance of choosing an evaluation strategy that matches the real-world question being investigated, particularly when working with data collected from multiple individuals.
-
-The project also highlighted the importance of choosing an evaluation strategy that matches the real-world question being investigated, particularly when working with data collected from multiple individuals.
